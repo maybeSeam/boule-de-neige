@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Obstacle
   - Snow
+  - No-Snow
+  - Bonus-size+
   layers:
   - Default
   - TransparentFX
