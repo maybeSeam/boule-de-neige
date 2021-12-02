@@ -8,6 +8,8 @@ TagManager:
   - Snow
   - No-Snow
   - Bonus-size+
+  - Terrain-START
+  - Terrain-END
   layers:
   - Default
   - TransparentFX
