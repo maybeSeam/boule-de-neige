@@ -13,10 +13,6 @@ public class MainMenuCtrl : MonoBehaviour
 
 	public void StartGame()
 	{
-		SceneManager.LoadScene("Scene_Andrea");
-	}
-	public void ReturnToMenu()
-	{
-		SceneManager.LoadScene("Home_MenuStart");
+		SceneManager.LoadScene("GAME");
 	}
 }
