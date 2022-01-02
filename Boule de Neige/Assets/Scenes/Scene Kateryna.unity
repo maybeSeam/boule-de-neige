@@ -586,6 +586,63 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fd0e92467624b594782ba7b5a3edb6a1, type: 3}
+--- !u!1001 &1721296751069696004
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6183473124199172870, guid: 8f46ec2c7bb8c1249a2041d01a15ac2a, type: 3}
+      propertyPath: m_Name
+      value: DECO_Sapin3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7269279281696281752, guid: 8f46ec2c7bb8c1249a2041d01a15ac2a, type: 3}
+      propertyPath: m_RootOrder
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 7269279281696281752, guid: 8f46ec2c7bb8c1249a2041d01a15ac2a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7269279281696281752, guid: 8f46ec2c7bb8c1249a2041d01a15ac2a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7269279281696281752, guid: 8f46ec2c7bb8c1249a2041d01a15ac2a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7269279281696281752, guid: 8f46ec2c7bb8c1249a2041d01a15ac2a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7269279281696281752, guid: 8f46ec2c7bb8c1249a2041d01a15ac2a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7269279281696281752, guid: 8f46ec2c7bb8c1249a2041d01a15ac2a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7269279281696281752, guid: 8f46ec2c7bb8c1249a2041d01a15ac2a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7269279281696281752, guid: 8f46ec2c7bb8c1249a2041d01a15ac2a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7269279281696281752, guid: 8f46ec2c7bb8c1249a2041d01a15ac2a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7269279281696281752, guid: 8f46ec2c7bb8c1249a2041d01a15ac2a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8f46ec2c7bb8c1249a2041d01a15ac2a, type: 3}
 --- !u!1001 &3943223530351054897
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -595,7 +652,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5168355715434377236, guid: 40a0178c0a1041c42995713bfbece95e, type: 3}
       propertyPath: m_Name
-      value: DECO_Sapin3
+      value: DECO_Sapin4
       objectReference: {fileID: 0}
     - target: {fileID: 8384031334873186331, guid: 40a0178c0a1041c42995713bfbece95e, type: 3}
       propertyPath: m_RootOrder
