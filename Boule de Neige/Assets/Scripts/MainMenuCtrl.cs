@@ -11,6 +11,10 @@ public class MainMenuCtrl : MonoBehaviour
 		Debug.Log("Game closed");
 	}
 
+	public void StartTuto()
+	{
+		SceneManager.LoadScene("Home_Tuto");
+	}
 	public void StartGame()
 	{
 		SceneManager.LoadScene("GAME");

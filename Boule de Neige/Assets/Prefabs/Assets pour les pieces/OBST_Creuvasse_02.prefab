@@ -49,8 +49,9 @@ EdgeCollider2D:
   m_EdgeRadius: 0
   m_Points:
   - {x: 1.017667, y: -1.9795661}
-  - {x: 0.9508181, y: -1.5396627}
-  - {x: 4.3350496, y: -1.5581237}
+  - {x: 0.53108984, y: 0.40634954}
+  - {x: 3.1903362, y: 1.0747167}
+  - {x: 4.06478, y: 0.13583094}
   - {x: 4.4151416, y: -1.9795662}
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}
@@ -198,7 +199,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -5
   m_Sprite: {fileID: 21300000, guid: 941a2d6746f1507449c7e52db3541606, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
